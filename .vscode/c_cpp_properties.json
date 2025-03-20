@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/FreeRTOS/include",
+                "D:\\固件包库\\STM32F10x_StdPeriph_Lib_V3.6.0\\Libraries\\STM32F10x_StdPeriph_Driver",
+                "D:\\固件包库\\STM32F10x_StdPeriph_Lib_V3.6.0\\Libraries\\STM32F10x_StdPeriph_Driver\\inc",
+                "D:\\固件包库\\STM32F10x_StdPeriph_Lib_V3.6.0\\Libraries\\STM32F10x_StdPeriph_Driver\\src",
+                "D:\\固件包库\\STM32F10x_StdPeriph_Lib_V3.6.0\\Libraries\\CMSIS\\CM3\\DeviceSupport\\ST\\STM32F10x\\startup\\arm",
+                "D:\\固件包库\\STM32F10x_StdPeriph_Lib_V3.6.0\\Libraries\\CMSIS\\CM3\\DeviceSupport\\ST\\STM32F10x",
+                "D:\\固件包库\\STM32F10x_StdPeriph_Lib_V3.6.0\\Libraries\\CMSIS\\CM3\\CoreSupport",
+            ],
+            
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "STM32F10X_HD",
+                "USE_STDPERIPH_DRIVER"
+            ],
+            "compilerPath": "D:\\VSARM\\mingw\\mingw64\\bin\\gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}

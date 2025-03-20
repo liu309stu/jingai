@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "*.cs": "aspnetcorerazor",
+        "*.s": "bat",
+        "stm32f10x_bkp.h": "c",
+        "stm32f10x.h": "c",
+        "led.h": "c",
+        "key.h": "c",
+        "appcfg.h": "c",
+        "stdio.h": "c",
+        "delay.h": "c",
+        "muc_rtc.h": "c",
+        "muc_rs232.h": "c",
+        "muc_dma.h": "c",
+        "muc_task.h": "c",
+        "lcd.h": "c",
+        "clock_pic.h": "c",
+        "stdlib.h": "c",
+        "muc_adc.h": "c",
+        "freertosconfig.h": "c",
+        "freertos.h": "c",
+        "task.h": "c",
+        "semphr.h": "c",
+        "exti.h": "c",
+        "usart.h": "c",
+        "sys_cfg.h": "c",
+        "stm32f10x_conf.h": "c",
+        "wifi.h": "c",
+        "stdint.h": "c",
+        "string.h": "c"
+    }
+}

@@ -25,7 +25,7 @@ const unsigned char *get_time_head = "GET /time HTTP/1.1\r\nHost: your_server_ip
 const unsigned char *get_state_head = "GET /action HTTP/1.1\r\nHost: your_server_ip:5000\r\n";
 const unsigned char *wifi_link_at = "AT+CWJAP=\"XIAOKANG\",\"12345678\"\r\n";
 const unsigned char *wifi_mode = "AT+CWMODE=1\r\n";
-const unsigned char *tcp_link_at = "AT+CIPSTART=\"TCP\",\"10.70.60.87\",5000\r\n";
+const unsigned char *tcp_link_at = "AT+CIPSTART=\"TCP\",\"10.70.160.88\",5000\r\n";
 const unsigned char *ip_mode_open = "AT+CIPMODE=1\r\n";
 const unsigned char *tcp_send = "AT+CIPSEND\r\n";
 const unsigned char *at_start = "AT\r\n";   // 检测模块是否响应
